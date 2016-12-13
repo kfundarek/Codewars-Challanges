@@ -3,7 +3,6 @@
 var maxSequence = function(arr){
   // ...
   var currentHigh = 0;
-  var previousHigh = 0;
   var currentCount = 0;
   var allNeg = arr.reduce(function(accum, item){
   	if (item > 0){
