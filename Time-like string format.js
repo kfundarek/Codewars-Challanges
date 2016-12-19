@@ -17,9 +17,3 @@ console.log(hour);
   }
   return retArr.join('')
 }
-
-//solution(800); // should return '8:00'
-//solution(1000); // should return '10:00'
-//solution(1451); // should return '14:51'
-//solution(3351); // should return '33:51'
-//solution(10000); // should raise an exception                            
